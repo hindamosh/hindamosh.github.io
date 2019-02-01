@@ -1,8 +1,9 @@
 ---
 output: 
   html_document:
-    theme: flatly
     toc: TRUE
+    toc_float: TRUE
+    toc_depth: 3
     number_sections: FALSE
     
 
