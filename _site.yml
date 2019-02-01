@@ -13,5 +13,5 @@ output:
     include:
       in_header: github_corner.html
       after_body: footer.html
-    theme: paper
+    theme: yeti
     css: style.css

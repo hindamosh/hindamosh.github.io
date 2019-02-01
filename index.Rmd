@@ -1,10 +1,12 @@
 ---
 title: "index"
-author: "Hindam"
-date: "February 1, 2019"
 output: html_document
 ---
+<img src="files/hindam.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-# Hello World
-## THis is my website
-I would like to say Hi!!
+# Hi!
+This is my website, I'm **Mohamed Hindam**. I'm pharmacist with deep interst in data.
+I like dealing with data and get insights from it to help solving problem and enhance more
+productivity.
+My nickename is hindamosh
+My full CV is available [here](files/Mohamed_Hindam.pdf)
