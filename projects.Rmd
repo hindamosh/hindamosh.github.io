@@ -9,20 +9,20 @@ output:
 
 ---
 
-# MY PROJECTS:
+Here some of my work
 
 ***
-## R
+# R
 
 [Explore & Summarize data with R](./Explore_summarize_project/)
 
 ***
 
-## PYTHON
+# PYTHON
 
 ***
 
-## PYTORCH
+# PYTORCH
 
 
 
