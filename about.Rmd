@@ -1,10 +1,26 @@
 ---
-title: "about"
-output: html_document
+output: 
+  html_document:
+    toc: TRUE
+    number_sections: FALSE
+    
+
 ---
 
-```{r setup, include= TRUE}
-knitr::opts_chunk$set(echo = FALSE)
-sessionInfo()
-```
+# MY PROJECTS:
+
+***
+## R
+
+[Explore & Summarize data with R]('https://hindamosh.github.io/Explore_summarize_project/')
+
+***
+
+## PYTHON
+
+***
+
+## PYTORCH
+
+
 

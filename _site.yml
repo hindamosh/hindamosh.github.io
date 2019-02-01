@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Projects"
       href: about.html
 
 output:
@@ -13,5 +13,5 @@ output:
     include:
       in_header: github_corner.html
       after_body: footer.html
-    theme: yeti
+    theme: flatly
     css: style.css
