@@ -12,7 +12,7 @@ output:
 ***
 ## R
 
-[Explore & Summarize data with R]('https://hindamosh.github.io/Explore_summarize_project/')
+[Explore & Summarize data with R](./Explore_summarize_project/)
 
 ***
 
