@@ -1,6 +1,7 @@
 ---
 output: 
   html_document:
+    theme: flatly
     toc: TRUE
     number_sections: FALSE
     
