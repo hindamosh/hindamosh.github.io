@@ -1,0 +1,17 @@
+name: "Mohamed Hindam"
+output_dir: "."
+navbar:
+  title: "Mohamed Hindam"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+
+output:
+  html_document:
+    include:
+      in_header: github_corner.html
+      after_body: footer.html
+    theme: paper
+    css: style.css
