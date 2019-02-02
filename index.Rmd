@@ -7,17 +7,15 @@
 <img src="files/hindam.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 # Hi!
-<br><br>
+
 
 This is my website, I'm **Mohamed Hindam**. 
 
-I'm pharmacist with deep interst in data.
+I'm pharmacist with deep interest in data.
 
 I like dealing with data and getting insights from it to help solving problems and            enhance more productivity.
 
 My nickename is _hindamosh_ !,  but I'm Egyptian :).
 
 My full CV is available [here](files/Mohamed_Hindam.pdf).
-
-
 
