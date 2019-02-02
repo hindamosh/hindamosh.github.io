@@ -11,7 +11,6 @@ navbar:
 output:
   html_document:
     include:
-      after_header: github_corner.html
       after_body: footer.html
     theme: flatly
     css: style.css
