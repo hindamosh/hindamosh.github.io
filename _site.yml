@@ -22,5 +22,4 @@ output:
   html_document:
     include:
       after_body: footer.html
-    theme: flatly
     css: style.css
