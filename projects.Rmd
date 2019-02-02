@@ -6,7 +6,6 @@ output:
     toc_depth: 3
     number_sections: FALSE
     
-
 ---
 
 <br><br>

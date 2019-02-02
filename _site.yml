@@ -7,6 +7,15 @@ navbar:
       href: index.html
     - text: "Projects"
       href: projects.html
+  right:
+    - icon: fa-website fa-lg
+      href: https://hindamosh.github.io/
+    - icon: fa-github fa-lg
+      href: http://github.com/hindamosh
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/hindamosh/
 
 output:
   html_document:
