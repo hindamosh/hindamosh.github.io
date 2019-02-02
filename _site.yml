@@ -8,7 +8,7 @@ navbar:
     - text: "Projects"
       href: projects.html
     - text: "My Repos"
-      href: repos.html
+      href: repos/index.html
   right:
     - icon: fa-home fa-lg
       href: https://hindamosh.github.io/
