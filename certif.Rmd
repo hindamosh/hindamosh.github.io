@@ -27,7 +27,7 @@ url1 <- "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certifica
 url2 <- "https://drive.google.com/file/d/1kUFj2u83UbINhEahW6-BH3spZpIJ32Ay/view"
 ```
 <br><b>
-![](`r url2`)
+# ![](`r url2`)
 
 ***
 
