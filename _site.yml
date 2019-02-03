@@ -5,10 +5,6 @@ navbar:
   left:
     - text: "Projects"
       href: projects.html
-    #- text: "Certificates"
-    #  href: cert.html
-    #- text: "Repos"
-     # href: repos.html
 
   right:
     - icon: fa-home fa-lg
