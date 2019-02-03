@@ -40,3 +40,13 @@ url3 <- "https://selfdrivingcars.mit.edu/files/deeptraffic/visualization_media/2
 ### MIT Deeptraffic Competiton:
 <br><b>
 ![](`r url3`)
+
+
+
+***
+
+<ul>
+{% for repository in site.github.public_repositories %}
+  <li><a href="{{ repository.html_url }}">{{ repository.name }}</a> : {{ repository.description }}</li>
+{% endfor %}
+</ul>
