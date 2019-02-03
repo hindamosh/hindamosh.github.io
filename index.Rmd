@@ -1,6 +1,6 @@
 ---
-title : "Mohamed Hindam"
-output: html_document
+title: "Mohamed Hindam"
+
 ---
 
 <br><br>
