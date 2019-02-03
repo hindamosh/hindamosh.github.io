@@ -1,16 +1,16 @@
 ---
+title: "Here are some of my work"
 output: 
   html_document:
     toc: TRUE
     toc_float: TRUE
     toc_depth: 3
     number_sections: FALSE
-    
 ---
 
 <br><br>
 
-**Here are some of my work**
+
 
 ***
 # R

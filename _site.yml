@@ -1,16 +1,18 @@
 name: "Mohamed Hindam"
 output_dir: "."
 navbar:
-  title: "Mohamed Hindam"
+  title: "HOME"
   left:
-    - text: "Home"
-      href: index.html
     - text: "Projects"
       href: projects.html
+    #- text: "Certificates"
+    #  href: cert.html
+    - text: "Repos"
+      href: ./repos/index.html
 
   right:
     - icon: fa-home fa-lg
-      href: https://hindamosh.github.io/
+      href: http://hindamosh.github.io/
     - icon: fa-github fa-lg
       href: http://github.com/hindamosh
     - icon: fa-linkedin fa-lg
