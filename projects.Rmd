@@ -16,10 +16,13 @@ output:
 # R
 
 [Explore & Summarize data with R](./Explore_summarize_project/)
-Description:
+
+- To determine the quality of red wines from other 11 chemical variables. 
 
 [This website](https://github.com/hindamosh/hindamosh.github.io)
-Description: Using Rmarkdown , Github & Github pages.
+
+- Using Rmarkdown , Github & Github pages.
+
 ***
 
 # PYTHON

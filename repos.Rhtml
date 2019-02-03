@@ -1,0 +1,14 @@
+<html>
+
+<head>
+<title>Repos</title>
+</head>
+
+<h1>My Updated Repos</h1>
+<ul>
+{% for repository in site.github.public_repositories %}
+  <li><a href="{{ repository.html_url }}">{{ repository.name }}</a> » {{ repository.description }}</li>
+{% endfor %}
+</ul>
+</body>
+</html>

@@ -7,13 +7,14 @@ output: html_document
 
 ## Data Analyst Nandegree 
 
-```{r, echo=FALSE}
+
+```{r  echo=FALSE}
 # Define variable containing url
 url1 <- "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/0a9ea543-de8d-4e17-972b-c02d2ef9ffe1.svg"
 ```
 <br><b>
 ![](`r url1`)
-![Confirm here]('https://graduation.udacity.com/confirm/SDZK7KZG')
+[Confirm here](https://graduation.udacity.com/confirm/SDZK7KZG)
 <br><br>
 ***
 

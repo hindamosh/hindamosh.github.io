@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Projects"
       href: projects.html
+    - text: "Repos"
+      href: repos.html
     - text: "Certificates"
       href: certif.html
 
