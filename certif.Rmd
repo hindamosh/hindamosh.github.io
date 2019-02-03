@@ -1,0 +1,40 @@
+---
+title: "Certificates"
+output: html_document
+---
+
+# Udaicity
+
+## Data Analyst Nandegree 
+
+```{r, echo=FALSE}
+# Define variable containing url
+url1 <- "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/0a9ea543-de8d-4e17-972b-c02d2ef9ffe1.svg"
+```
+<br><b>
+![](`r url1`)
+![Confirm here]('https://graduation.udacity.com/confirm/SDZK7KZG')
+<br><br>
+***
+
+# LinkedIn
+
+## Advanced SQL for data analyst
+
+```{r, echo=FALSE}
+# Define variable containing url
+url2 <- "https://drive.google.com/file/d/1kUFj2u83UbINhEahW6-BH3spZpIJ32Ay/view"
+```
+<br><b>
+![](`r url2`)
+
+***
+
+# deep learning  is fun
+```{r, echo=FALSE}
+# Define variable containing url
+url3 <- "https://selfdrivingcars.mit.edu/files/deeptraffic/visualization_media/25740.gif"
+```
+### MIT Deeptraffic Competiton:
+<br><b>
+![](`r url3`)

@@ -16,7 +16,10 @@ output:
 # R
 
 [Explore & Summarize data with R](./Explore_summarize_project/)
+Description:
 
+[This website](https://github.com/hindamosh/hindamosh.github.io)
+Description: Using Rmarkdown , Github & Github pages.
 ***
 
 # PYTHON
@@ -24,6 +27,8 @@ output:
 ***
 
 # PYTORCH
+
+***
 
 
 
