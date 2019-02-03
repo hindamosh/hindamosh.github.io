@@ -16,6 +16,7 @@ url1 <- "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certifica
 ![](`r url1`)
 [Confirm here](https://graduation.udacity.com/confirm/SDZK7KZG)
 <br><br>
+
 ***
 
 # LinkedIn
@@ -44,9 +45,3 @@ url3 <- "https://selfdrivingcars.mit.edu/files/deeptraffic/visualization_media/2
 
 
 ***
-
-<ul>
-{% for repository in site.github.public_repositories %}
-  <li><a href="{{ repository.html_url }}">{{ repository.name }}</a> : {{ repository.description }}</li>
-{% endfor %}
-</ul>
