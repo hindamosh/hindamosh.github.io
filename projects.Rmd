@@ -30,7 +30,9 @@ output:
 ***
 
 # PYTORCH
+[Bike Sharing ](./Bike_sharing_Pytorch/)
 
+- To establish a neural network from scratch using numpy in the Pytorch scholarship by Facebook. 
 ***
 
 
