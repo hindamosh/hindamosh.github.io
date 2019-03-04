@@ -27,6 +27,13 @@ output:
 
 # PYTHON
 
+[Data wrangling](./data_wrangling/)
+
+- In this project I used the 3 process of data wrangling: Gather, assess and clean
+- for a full report about my wrangling steps , please find [here](https://bit.ly/2UiUBVR)
+- Make an analysis for a twitter account @[WeRtaeDogs](https://twitter.com/dog_rates)
+- for a full report about my insights , please find [here](https://bit.ly/2Tx1ZQ8)
+
 ***
 
 # PYTORCH
