@@ -13,17 +13,13 @@ output: html_document
 #url1 <- "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/0a9ea543-de8d-4e17-972b-c02d2ef9ffe1.svg"
 #![](`r url1`)
 ```
-<a href ="https://graduation.udacity.com/confirm/SDZK7KZG">
-  <img src="files/dfnd_cert.jpg" style="width:25%">
-</a>
+[<img src="files/dfnd_cert.jpg" style="width:25%">](https://graduation.udacity.com/confirm/SDZK7KZG)
 
 ***
 
 ### Data Analyst for Enterprise Nanodegree 
 
-<a href="https://graduation.udacity.com/confirm/FJ5KMEME">
-  <img src="files/dand_cert.jpg" style="width:25%">
-</a>
+[<img src="files/dand_cert.jpg" style="width:25%">](https://graduation.udacity.com/confirm/FJ5KMEME)
 
 ***
 
