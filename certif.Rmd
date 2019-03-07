@@ -19,7 +19,6 @@ output: html_document
 ***
 
 ### Data Analyst for Enterprise Nanodegree 
-
 <img src="files/dand_cert.jpg" style="width:25%">
 [confirm here](https://graduation.udacity.com/confirm/FJ5KMEME)
 
