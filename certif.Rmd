@@ -3,42 +3,36 @@ title: "Certificates"
 output: html_document
 ---
 
-# Udaicity
+## Udaicity
 
-## Data Analyst Nandegree 
+### Data Foundations Nanodegree 
 
 
 ```{r  echo=FALSE}
 # Define variable containing url
-url1 <- "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/0a9ea543-de8d-4e17-972b-c02d2ef9ffe1.svg"
+#url1 <- "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/0a9ea543-de8d-4e17-972b-c02d2ef9ffe1.svg"
+#![](`r url1`)
 ```
-<br><b>
-![](`r url1`)
-[Confirm here](https://graduation.udacity.com/confirm/SDZK7KZG)
-<br><br>
+<a href ="https://graduation.udacity.com/confirm/SDZK7KZG">
+  <img src="files/dfnd_cert.jpg" style="width:25%">
+</a>
 
 ***
 
-# LinkedIn
+### Data Analyst for Enterprise Nanodegree 
 
-## Advanced SQL for data analyst
-
-```{r, echo=FALSE}
-# Define variable containing url
-url2 <- "https://drive.google.com/file/d/1kUFj2u83UbINhEahW6-BH3spZpIJ32Ay/view"
-#![](`r url2`)
-```
-<br><b>
-
+<a href="https://graduation.udacity.com/confirm/FJ5KMEME">
+  <img src="files/dand_cert.jpg" style="width:25%">
+</a>
 
 ***
 
-# deep learning  is fun
+### deep learning  is fun
 ```{r, echo=FALSE}
 # Define variable containing url
 url3 <- "https://selfdrivingcars.mit.edu/files/deeptraffic/visualization_media/25740.gif"
 ```
-### MIT Deeptraffic Competiton:
+#### MIT Deeptraffic Competiton:
 <br><b>
 ![](`r url3`)
 

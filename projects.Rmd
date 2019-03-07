@@ -43,5 +43,10 @@ output:
 
 ***
 
+# Tableau
+
+[WeRateDogs report](https://public.tableau.com/profile/hindam#!/vizhome/WeRateDogs_report/WeRateDogs) on Tableau public.
+
+The design report [here](./create_tableau_story/)
 
 
